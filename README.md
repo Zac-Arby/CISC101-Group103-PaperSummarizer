@@ -33,4 +33,4 @@ The system enforces hallucination mitigation, citation verification, and PS2 wor
 - Missing or short sections will be flagged in the checks & warnings list.
 
 ## Authors
-Group 3 – Zac Arbuthnot and teammates
+Group 3 – Zac Arbuthnot
